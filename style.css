@@ -1,0 +1,90 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 21px; 
+    margin: 0;
+    text-align: center;
+    display: grid;
+}
+
+header {
+    background-color:  #252525; 
+    padding: 100px 0;
+    color:  #fff;
+    margin-top: -120px;
+}
+
+section.about-me {
+   background-color: - #D7D7D7 ; 
+    padding: 100px 0;
+}
+.Button1{
+    color:  #252525;
+    background-color:  #99D930;
+    
+}
+.Button1:hover{
+    color:  #fff;
+    background-color: #252525;
+}
+section.articles {
+    background-color:  #252525; 
+    padding: 100px 0;
+    color:  #fff;
+}
+.Button2{
+    color:  #252525;
+    background-color: #99D930;
+}
+.Button2:hover{
+    color: #fff ;
+    background-color: #252525;
+}
+
+.container {
+    width: 570px; 
+    margin: 0 auto; 
+    text-align: center; 
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 60px; 
+    display: inline-block; 
+    border-top: 1px solid #C4C4C4; 
+    border-bottom: 1px solid #C4C4C4; 
+    padding: 10px 0; 
+}
+h1
+{
+    margin-top: 20px;
+    font-size: 80px;
+    font-weight: 400;
+}
+
+h1 span{
+    color: #99d930;
+    font-size: 80px;
+    font-weight: 900;
+}
+h2 span {
+    color: #99d930;
+    display: block; 
+    font-weight: 900; 
+}
+
+a {
+    color: #99D930;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #131313;
+}
+
+p small {
+    font-size: 16px; 
+}
+img{
+    border-radius: 50%;
+    width: 500px;
+}
